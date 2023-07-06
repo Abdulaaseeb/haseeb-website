@@ -1,0 +1,182 @@
+/* @media only screen and (max-width: 767px) {
+    #popcars4 {
+       margin-top: 20px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    #popcars5 {
+       margin-top: 20px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    #popcars6 {
+       margin-top: 20px;
+    }
+  }
+  @media only screen and (max-width: 1199px) {
+    #row {
+       margin-left: 100px;
+    }
+  } */
+  @media only screen and (max-width: 1200px) {
+    #btn1 {
+       margin-top: 50%;
+    }
+  }
+  @media only screen and (max-width: 720px) {
+    #btn1 {
+       margin-top: 40%;
+    }
+  }
+  @media only screen and (max-width: 587px) {
+    #btn1 {
+       margin-top: 10%;
+    }
+  }
+  @media only screen and (max-width: 360px) {
+    #btn1 {
+       margin-top: 100%;
+    }
+  }
+  @media only screen and (max-width: 720px) {
+    #btn1 {
+       margin-top: 200%;
+    }
+  }
+  @media only screen and (max-width: 720px) {
+    #map {
+       width:100%;
+    }
+  }
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    font-family: 'League Gothic', sans-serif;
+}
+.nav{
+    margin: 10px auto;
+    font-weight: 700;
+    font-size: 15px;
+}
+.con{
+    box-shadow: 5px 5px 5px gray;
+}
+.nav li a:hover{
+    color: red;
+}
+
+.Logo{
+    color: black;
+}
+.Logo span{
+    color: red;
+}
+.btn0{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: red;
+    color: black;
+    padding: 10px;
+    width: 5rem;
+    margin: 10px;
+}
+.main{
+    background: url(img/luxury\ cars.jpg)no-repeat;
+    background-size: cover;
+    height: 110vh;
+    width: 100%;
+    background-position: 50% 50%;
+    background-color: white;
+}
+.main h1{
+    margin-top:0px ;
+    font-style: italic;
+    font-size: 6rem;
+    font-weight:bolder;
+    /* margin-right: 100px; */
+    text-align: center;
+}
+.cart1 h1{
+    margin-top:0px ;
+    font-style: italic;
+    font-size: 6rem;
+    font-weight:bolder;
+    /* margin-right: 100px; */
+    text-align: center;
+}
+
+.btn1{
+    margin-top: 35%;
+    text-align: center;
+    /* border: 2px solid black;
+    border-radius: 5px;
+    background-color: red;
+    color: black; */
+    
+}
+.icon{
+    cursor: pointer;
+   
+}
+.icons1:hover{
+   background-color: black;
+   cursor: pointer;
+}
+.img{
+    margin: 10px auto;
+}
+.icon2{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: red;
+    margin: 10px auto;
+}
+.cart{
+    background-color: #fff;
+
+}
+.cart:hover{
+    background-color: black;
+    cursor: pointer;
+    color: #fff;
+}
+.background{
+    background: url(img/luxury\ car.jpg) top/cover no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 50vh;
+    width: 100vw;
+    
+}
+.button{
+    margin-right: 35px;
+}
+.lastwork{
+    margin: 10px auto;
+}
+.navBAr{
+    z-index: 1;
+    width: 100%;
+    background-color: #fff;
+}
+.logimg{
+    background: url('img/logimg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    background-attachment: transparent;
+}
+.logsign{
+    margin-top: 20vh;
+    width: 50%;
+    height: 50vh;
+    background-color: rgba(255, 255, 255, 0.743);
+}
+.logsign button{
+    margin-top: 10vh;
+}
+
